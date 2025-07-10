@@ -1,5 +1,68 @@
-# 💫 About Me:
-A smart and passionate full-stack dev leaning toward backend. I enjoy deep learning, system design, and creative problem-solving — whether in apps, algorithms, or daily life. I may not memorize fast, but I learn deeply and improve continuously. I care about what I build, and why.
+# 👋 Hi, I'm Saeed Khanloo (ELUCKTRON)
+
+**Full-stack developer (backend-leaning)** with a deep interest in systems thinking, clean architecture, and efficient problem-solving.  
+I'm currently pursuing a BSc in Computer Science at **ELTE, Budapest** and building my own projects as I go.
+
+Whether it's designing scalable APIs, simulating real-time systems, or improving daily workflows, I enjoy finding smarter, faster, cleaner solutions.  
+I care deeply about **how** things are built and **why** they’re built that way.
+
+---
+
+## 💻 Tech Stack
+
+- **Languages**: Java · Python · JavaScript · PHP · C# · C . HTML · CSS 
+- **Backend**: Spring Boot · Laravel · REST APIs · FastAPI  
+- **Frontend/Web**: React (Vite/TS) · AJAX · Blade  
+- **GUI**: Java Swing · Tkinter  
+- **Databases**: PostgreSQL · Oracel . SQLite · MySQL ·    
+- **Tools**: GitHub · GitLab · Junit
+
+---
+
+## 📂 Highlight Projects
+
+| 💡 Category            | 🚀 Project | 🧠 Highlights |
+|------------------------|------------|----------------|
+| 🏫 LMS Platform        | [`LMS - Laravel`](https://github.com/ELUCKTRON/web-laravel-learning-management-system-university) | Role-based learning system with soft deletes, CRUD, task evaluation |
+| 💰 Budget Tracker       | [`Family Budget`](https://github.com/ELUCKTRON/web-react-laravel-family-budget--university) | Full-stack React (Vite) + Laravel finance app with TypeScript |
+| 🧭 Maze Puzzle Game     | [`Labyrinth`](https://github.com/ELUCKTRON/gui-java-labyrinth-university) | Java Swing GUI game with dragons and procedural maze solving |
+| ⚔️ Arena Battle Sim     | [`Arena Simulator`](https://github.com/ELUCKTRON/gui-arena-simulator-univerity) | Real-time multi-threaded Java simulation with factions, logs, health bars |
+| 🐰 OS Simulation        | [`Bunny King Election`](https://github.com/ELUCKTRON/cli-c-bunny-king-election-university) | C project using `fork()`, pipes, and signals to simulate an Easter contest |
+| 🧩 Web Puzzle Game      | [`Kingdoms Railway`](https://github.com/ELUCKTRON/web-js-kingdoms-railway-university) | Vanilla JS puzzle with procedurally generated maps and track placement rules |
+
+> All projects are public, documented with screenshots, and shared under the MIT License.
+
+---
+
+## 🧠 About Me
+
+- 📍 Based in Budapest  
+- 🎯 Passionate about system design, clean backend logic, and maintainable code  
+- 🧠 Fast learner, deep thinker — I prefer understanding over memorization  
+- 🛠️ Currently working on personal side projects to sharpen real-world dev skills  
+- 👀 Open to internships or junior roles in backend or full-stack development  
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/saeed-fathallah-khanloobrise-208768188)  
+📧 saeedkhanloo72@gmail.com
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=ELUCKTRON&theme=dark&hide_border=false&include_all_commits=true&count_private=false)  
+![](https://nirzak-streak-stats.vercel.app/?user=ELUCKTRON&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ELUCKTRON&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=ELUCKTRON&icon=0&color=3)](https://visitcount.itsvg.in)
+
+<!-- Proudly customized and handcrafted with ❤️ by Saeed Khanloo -->
+
 
 
 ## 🌐 Socials:
