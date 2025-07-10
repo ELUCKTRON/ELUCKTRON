@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Saeed Khanloo (ELUCKTRON)
+🚀 Junior Backend Developer | Java + Spring | React | Laravel | Always building, always learning
 
 **Full-stack developer (backend-leaning)** with a deep interest in systems thinking, clean architecture, and efficient problem-solving.  
 I'm currently pursuing a BSc in Computer Science at **ELTE, Budapest** and building my own projects as I go.
